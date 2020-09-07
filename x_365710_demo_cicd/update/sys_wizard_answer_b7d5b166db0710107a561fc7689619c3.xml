@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>VPN Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>VPN Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0d259aa7db1210107a561fc768961992</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 13:17:47</sys_created_on>
+        <sys_id>b7d5b166db0710107a561fc7689619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VPN Request</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_wizard_answer_b7d5b166db0710107a561fc7689619c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 13:17:47</sys_updated_on>
+        <table/>
+        <target_url>x_365710_demo_cicd_vpn_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

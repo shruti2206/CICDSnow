@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_365710_demo_cicd.FetchCity</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>FetchCity</name>
+        <script><![CDATA[var FetchCity = Class.create();
+FetchCity.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getUserCity: function() {        
+        var id = this.getParameter('user_sys_id');
+        //gs.log("User IDs "+id);
+        var g = new GlideRecord('sys_user');
+        g.get(id);
+		gs.info("@@@sysid "+id);
+		gs.info("@@@city "+g.city.toString());
+        return g.city.toString();
+    },
+    type: 'FetchCity'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 14:32:00</sys_created_on>
+        <sys_id>06e3caaedb0710107a561fc7689619ac</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>FetchCity</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_script_include_06e3caaedb0710107a561fc7689619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 14:49:19</sys_updated_on>
+    </sys_script_include>
+</record_update>
