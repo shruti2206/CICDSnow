@@ -50,7 +50,7 @@
         <recurring_price>0</recurring_price>
         <redirect_url>generated_record</redirect_url>
         <request_method/>
-        <roles/>
+        <roles>snc_internal</roles>
         <sc_catalogs/>
         <sc_ic_item_staging/>
         <sc_ic_version/>

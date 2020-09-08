@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-08 08:32:53</sys_created_on>
+        <sys_id>212e71722f035010c0c3309cf699b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>95ac31322f035010c0c3309cf699b624</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_212e71722f035010c0c3309cf699b663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-08 08:32:53</sys_updated_on>
+        <test display_value="Demo snow CICD test">95ac31322f035010c0c3309cf699b624</test>
+        <test_suite display_value="Demo snow CICD suite">4cbdbd322f035010c0c3309cf699b6de</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
