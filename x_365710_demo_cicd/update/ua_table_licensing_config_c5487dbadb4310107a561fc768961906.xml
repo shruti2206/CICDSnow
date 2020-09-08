@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-07 13:17:47</sys_created_on>
-        <sys_id>04e5b166db0710107a561fc7689619d4</sys_id>
+        <sys_id>c5487dbadb4310107a561fc768961906</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_365710_demo_cicd_vpn_request</sys_name>
         <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
-        <sys_update_name>ua_table_licensing_config_04e5b166db0710107a561fc7689619d4</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_c5487dbadb4310107a561fc768961906</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-09-07 13:17:47</sys_updated_on>
     </ua_table_licensing_config>

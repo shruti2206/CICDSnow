@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>CICD snow test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:45:40</sys_created_on>
+        <sys_id>f3133e2edb8710107a561fc768961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD snow test</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_atf_test_f3133e2edb8710107a561fc768961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:45:40</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=f3133e2edb8710107a561fc768961949"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</application>
+        <file_path/>
+        <instance_id>432cb6a2db86d38c7d8cf22ebf96199d</instance_id>
+        <instance_name>dev59390</instance_name>
+        <name>sys_atf_test_f3133e2edb8710107a561fc768961949</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>CICD snow test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:45:40</sys_created_on>
+        <sys_id>f3133e2edb8710107a561fc768961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD snow test</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_atf_test_f3133e2edb8710107a561fc768961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:45:40</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=f3133e2edb8710107a561fc768961949"/>
+</record_update>]]></payload>
+        <payload_hash>1158512570</payload_hash>
+        <record_name>CICD snow test</record_name>
+        <reverted_from/>
+        <source>5e38b9badb4310107a561fc768961931</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-08 08:06:45</sys_created_on>
+        <sys_id>a9487dbadb4310107a561fc7689619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1746cc0c00e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-08 08:06:45</sys_updated_on>
+        <type>Test</type>
+        <update_guid>29487dbacd431010abcd00bfe2a8acb5</update_guid>
+        <update_guid_history>29487dbacd431010abcd00bfe2a8acb5:0,10483dba56431010e6fb9984d4df6a4f:1744686132,1bc4753aeb431010feb1bbbc6c6e612d:0,1fa3b5f6d24310104f056cc20862ee85:1913076215,80333e2eaf871010d3b0651f12ae8551:-1707805144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-08 08:10:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>d8a7e5f511964b9cb77d48f8e7081110</sys_id>
+        <sys_metadata>f3133e2edb8710107a561fc768961949</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD snow test</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_scope_delete display_value="">3b1715cefefd4a60b9e5e74ceb670900</sys_scope_delete>
+        <sys_update_name>sys_atf_test_f3133e2edb8710107a561fc768961949</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_f3133e2edb8710107a561fc768961949">a9487dbadb4310107a561fc7689619b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-08 08:10:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

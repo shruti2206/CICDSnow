@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'VPN Request' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>04437e2edb8710107a561fc7689619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_atf_step_04437e2edb8710107a561fc7689619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <table>x_365710_demo_cicd_vpn_request</table>
+        <test display_value="CICD snow test">f3133e2edb8710107a561fc768961949</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=04437e2edb8710107a561fc7689619fb"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>04437e2edb8710107a561fc7689619fb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>ab63b26edb8710107a561fc7689619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <value>x_365710_demo_cicd_vpn_request</value>
+        <variable display_value="">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>04437e2edb8710107a561fc7689619fb</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>e763b26edb8710107a561fc7689619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <value/>
+        <variable display_value="">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>04437e2edb8710107a561fc7689619fb</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>ef63b26edb8710107a561fc7689619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</application>
+        <file_path/>
+        <instance_id>432cb6a2db86d38c7d8cf22ebf96199d</instance_id>
+        <instance_name>dev59390</instance_name>
+        <name>sys_atf_step_04437e2edb8710107a561fc7689619fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new 'VPN Request' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>04437e2edb8710107a561fc7689619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_atf_step_04437e2edb8710107a561fc7689619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <table>x_365710_demo_cicd_vpn_request</table>
+        <test display_value="CICD snow test">f3133e2edb8710107a561fc768961949</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=04437e2edb8710107a561fc7689619fb"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>04437e2edb8710107a561fc7689619fb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>ab63b26edb8710107a561fc7689619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <value>x_365710_demo_cicd_vpn_request</value>
+        <variable display_value="">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>04437e2edb8710107a561fc7689619fb</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>e763b26edb8710107a561fc7689619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <value/>
+        <variable display_value="">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>04437e2edb8710107a561fc7689619fb</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 17:46:44</sys_created_on>
+        <sys_id>ef63b26edb8710107a561fc7689619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 17:46:44</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+</record_update>]]></payload>
+        <payload_hash>800044506</payload_hash>
+        <record_name>Open a New Form</record_name>
+        <reverted_from/>
+        <source>5e38b9badb4310107a561fc768961931</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-08 08:06:45</sys_created_on>
+        <sys_id>6d487dbadb4310107a561fc7689619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1746cc0bf780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-08 08:06:45</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>e9487dba454310100cfc0243e3a698a9</update_guid>
+        <update_guid_history>e9487dba454310100cfc0243e3a698a9:0,f638b9baab4310104d68535a6dc0edba:-88289586,c7c4753af44310105925e44739120021:0,dba3b5f6b8431010b3e63ab1f721827f:-172730350,2b63b26e4787101063cde4dd288d7dab:575934796</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-08 08:10:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>3603ea9055af424a932358914fc4f8d9</sys_id>
+        <sys_metadata>04437e2edb8710107a561fc7689619fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_scope_delete display_value="">3b1715cefefd4a60b9e5e74ceb670900</sys_scope_delete>
+        <sys_update_name>sys_atf_step_04437e2edb8710107a561fc7689619fb</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_04437e2edb8710107a561fc7689619fb">6d487dbadb4310107a561fc7689619a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-08 08:10:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

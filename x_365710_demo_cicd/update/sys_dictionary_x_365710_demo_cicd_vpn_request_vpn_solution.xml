@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-07 13:17:48</sys_created_on>
-        <sys_id>c8e5b166db0710107a561fc7689619eb</sys_id>
+        <sys_id>41487dbadb4310107a561fc768961900</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>VPN Solution</sys_name>
         <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
         <sys_update_name>sys_dictionary_x_365710_demo_cicd_vpn_request_vpn_solution</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-07 13:17:48</sys_updated_on>
+        <sys_updated_on>2020-09-08 08:06:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
