@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>Chrome</browser_name>
+        <browser_version>85.0.4183.83</browser_version>
+        <description>Run suite 'CICD snow suite' on a system with this configuration:
+Chrome browser whose version starts with 85.0.4183.83
+Windows operating system whose version starts with 10.0</description>
+        <order>100</order>
+        <os_name>Windows</os_name>
+        <os_version>10.0</os_version>
+        <schedule display_value="CICD adhoc schedule">c62243e6dbc710107a561fc7689619fa</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 18:51:04</sys_created_on>
+        <sys_id>4e2243e6dbc710107a561fc7689619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_4e2243e6dbc710107a561fc7689619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 18:51:04</sys_updated_on>
+        <test_suite display_value="CICD snow suite">95b3b66edb8710107a561fc7689619eb</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</application>
+        <file_path/>
+        <instance_id>432cb6a2db86d38c7d8cf22ebf96199d</instance_id>
+        <instance_name>dev59390</instance_name>
+        <name>sys_atf_schedule_run_4e2243e6dbc710107a561fc7689619fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>Chrome</browser_name><browser_version>85.0.4183.83</browser_version><description>Run suite 'CICD snow suite' on a system with this configuration:
+Chrome browser whose version starts with 85.0.4183.83
+Windows operating system whose version starts with 10.0</description><order>100</order><os_name>Windows</os_name><os_version>10.0</os_version><schedule display_value="CICD adhoc schedule">c62243e6dbc710107a561fc7689619fa</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-07 18:51:04</sys_created_on><sys_id>4e2243e6dbc710107a561fc7689619fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package><sys_policy/><sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope><sys_update_name>sys_atf_schedule_run_4e2243e6dbc710107a561fc7689619fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-07 18:51:04</sys_updated_on><test_suite display_value="CICD snow suite">95b3b66edb8710107a561fc7689619eb</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>-822400835</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>a83a162edb4710107a561fc76896196f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 18:51:04</sys_created_on>
+        <sys_id>4e224be6dbc710107a561fc76896194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17469e848620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 18:51:04</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>86224be6e7c710105e0a6f45dea90c4a</update_guid>
+        <update_guid_history>86224be6e7c710105e0a6f45dea90c4a:-822400835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 18:51:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>7523575f43aa401080e38eb96b378a40</sys_id>
+        <sys_metadata>4e2243e6dbc710107a561fc7689619fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_scope_delete display_value="">3b1715cefefd4a60b9e5e74ceb670900</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_4e2243e6dbc710107a561fc7689619fc</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_4e2243e6dbc710107a561fc7689619fc">4e224be6dbc710107a561fc76896194a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 18:51:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
