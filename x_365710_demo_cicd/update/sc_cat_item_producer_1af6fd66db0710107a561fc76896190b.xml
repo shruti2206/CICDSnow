@@ -4,7 +4,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category/>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
@@ -51,7 +51,7 @@
         <redirect_url>generated_record</redirect_url>
         <request_method/>
         <roles>snc_internal</roles>
-        <sc_catalogs/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script><![CDATA[    current.short_description = "Report an Issue with your Virtual Private Network (VPN) test test";
@@ -70,14 +70,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-07 13:23:29</sys_created_on>
         <sys_id>1af6fd66db0710107a561fc76896190b</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Report an Issue with your Virtual Private Network (VPN)</sys_name>
         <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
         <sys_update_name>sc_cat_item_producer_1af6fd66db0710107a561fc76896190b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-08 06:15:08</sys_updated_on>
+        <sys_updated_on>2020-09-10 07:21:14</sys_updated_on>
         <table_name>x_365710_demo_cicd_vpn_request</table_name>
         <template/>
         <type>item</type>

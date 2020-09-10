@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report an Issue with your Virtual Private Network (VPN)">1af6fd66db0710107a561fc76896190b</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-10 07:21:14</sys_created_on>
+        <sys_id>da01c06bdb4b50107a561fc76896198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report an Issue with your Virtual Private Network (VPN)</sys_name>
+        <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_da01c06bdb4b50107a561fc76896198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-10 07:21:14</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
