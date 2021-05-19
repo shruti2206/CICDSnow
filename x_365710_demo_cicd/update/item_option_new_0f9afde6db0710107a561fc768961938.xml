@@ -37,7 +37,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>classify_your_equipment</name>
-        <order>300</order>
+        <order>150</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>Classify your equipment:</question_text>
@@ -59,14 +59,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-07 13:38:55</sys_created_on>
         <sys_id>0f9afde6db0710107a561fc768961938</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Classify your equipment:</sys_name>
         <sys_package display_value="Demo CICD snow" source="x_365710_demo_cicd">d6f9616edbc310107a561fc76896197a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo CICD snow">d6f9616edbc310107a561fc76896197a</sys_scope>
         <sys_update_name>item_option_new_0f9afde6db0710107a561fc768961938</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-07 14:52:54</sys_updated_on>
+        <sys_updated_on>2021-05-19 12:07:06</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
